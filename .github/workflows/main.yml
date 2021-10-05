@@ -62,4 +62,4 @@ jobs:
           path: |
             output
             !output/**/*.md
-          retention-days: 2  # Remove artifacts after 2 days
+          retention-days: 10  # Remove artifacts after 10 days
